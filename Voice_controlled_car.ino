@@ -245,4 +245,4 @@ digitalWrite (3, LOW);
  }
 
 
- readvoice="";}} //Reset the variable
+ readvoice="";}} //Reset the variables
